@@ -12,5 +12,7 @@ public class Location {
 		return loc;
 	}
 
-	
+	public void setLoc(String loc) {
+		this.loc = loc;
+	}
 }
